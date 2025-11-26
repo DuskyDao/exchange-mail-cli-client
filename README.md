@@ -39,7 +39,7 @@ pip install -r requirements.txt
    ```
 2. Перейдите в каталог проекта:
    ```bash
-   cd microsoft-graph-mail-client
+   cd exchange-mail-cli-client
    ```
 3. Перенесите полученные раннее переменные `CLIENT_ID` и `TENANT_ID` в файл конфигурации `.env.sample`, удалите разширение `.sample`.
 4. Запустите скрипт:
