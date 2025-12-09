@@ -74,7 +74,7 @@ poetry show --tree
 
 4. Запустите скрипт:
    ```bash
-   poetry run python /src/exchange-mail-cli-client/mail_client.py
+   poetry run python ./src/exchange-mail-cli-client/mail_client.py
    ```
 5. Следуйте инструкциям для аутентификации и использования функций работы с почтой.
 
